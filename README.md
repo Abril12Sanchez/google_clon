@@ -1,9 +1,9 @@
 # Clon del Buscador Google
 
-[![Clon de Google](google-clon-five.vercel.app)
+[Clon de Google](google-clon-five.vercel.app)
 
 
-Proyecto realixado en el bootcam de TecnolochicasPro.
+Proyecto realizado en el bootcam de TecnolochicasPro.
 ![image](https://github.com/Abril12Sanchez/google_clon/assets/137373616/ba8aa166-3f77-461a-9e8e-6b8951d9a2bd)
 
 
