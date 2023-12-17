@@ -1,5 +1,8 @@
 # Clon del Buscador Google
 
+[![Clon de Google](google-clon-five.vercel.app)
+
+
 Proyecto realixado en el bootcam de TecnolochicasPro.
 ![image](https://github.com/Abril12Sanchez/google_clon/assets/137373616/ba8aa166-3f77-461a-9e8e-6b8951d9a2bd)
 
@@ -14,14 +17,14 @@ Contiene los siguientes elementos.
 
 ## ¿Que tecnologias utilice?
 
-![Logo](https://th.bing.com/th/id/R.9228f542564a699b423ed11b590a6254?rik=jcOgHzzbkzxhqA&pid=ImgRaw&r=0)
+![image](https://github.com/Abril12Sanchez/google_clon/assets/137373616/8a3488f6-7bc2-4fe7-8afb-11e76525f924)
 
 
 ## Mi objetivo
 
-Aprender a utilizar los lenjuages y las etiquetas principales de CSS y HTML, asi como un poco de JS.
+Aprender a utilizar los lenjuages y las etiquetas principales de CSS y HTML. 
 
-##Mira aqui mi proyecto: 
+## Mira aqui mi proyecto: 
 
 [Clonación de Google](https://google-clon-five.vercel.app/)
 
